@@ -1,19 +1,28 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Olaf!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a love for [Your Interests/Technologies]. Here, you'll find a collection of my projects, skills, and experiences.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [Your Interests/Technologies]. Here, you'll find a showcase of my skills, projects, and experiences.
 
 ---
 
 ## 🚀 Skills
 
-- **Programming Languages:** 
-  - JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** 
-  - React, Node.js, Django, Flask
-- **Tools & Technologies:** 
-  - Git, Docker, AWS, SQL, NoSQL
-- **Soft Skills:** 
-  - Problem-solving, Teamwork, Communication, Adaptability
+### 🌟 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+### 🛠️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 
 ---
 
