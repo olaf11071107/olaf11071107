@@ -1,14 +1,12 @@
 # 👋 Hello, I'm Olaf! 
 ### A passionate developer exploring the world of technology 🌐
 
-![Header Image](https://your-image-url.com/header-image.png) <!-- Replace with your header image URL -->
-
 ---
 
-## 🚀 Skills
+## 🚀 Skills Showcase
 
 ### 🌟 Programming Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" />
@@ -16,7 +14,7 @@
 </p>
 
 ### 🛠️ Frameworks & Libraries
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django" />
@@ -24,11 +22,31 @@
 </p>
 
 ### ⚙️ Tools & Technologies
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS" />
   <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" alt="SQL" />
+</p>
+
+---
+
+## 🎨 My Projects
+
+### 🌈 Project Gallery
+<p align="center">
+  <a href="https://github.com/yourusername/project1" target="_blank">
+    <img src="https://your-image-url.com/project1-thumbnail.png" alt="Project 1" width="150" height="150" />
+  </a>
+  <a href="https://github.com/yourusername/project2" target="_blank">
+    <img src="https://your-image-url.com/project2-thumbnail.png" alt="Project 2" width="150" height="150" />
+  </a>
+  <a href="https://github.com/yourusername/project3" target="_blank">
+    <img src="https://your-image-url.com/project3-thumbnail.png" alt="Project 3" width="150" height="150" />
+  </a>
+  <a href="https://github.com/yourusername/project4" target="_blank">
+    <img src="https://your-image-url.com/project4-thumbnail.png" alt="Project 4" width="150" height="150" />
+  </a>
 </p>
 
 ---
@@ -47,25 +65,11 @@
 
 ---
 
-## 📈 Projects
+## 📊 GitHub Stats
 
-### [Project Name]
-![Project Thumbnail](https://your-image-url.com/project-thumbnail.png) <!-- Replace with your project thumbnail URL -->
-- **Description:** A brief overview of what the project is about.
-- **Technologies Used:** [List of technologies]
-- **Link:** [GitHub Repository Link]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaf11071107&show_icons=true&theme=radical)
 
-### [Another Project Name]
-![Project Thumbnail](https://your-image-url.com/project-thumbnail.png) <!-- Replace with your project thumbnail URL -->
-- **Description:** A brief overview of what the project is about.
-- **Technologies Used:** [List of technologies]
-- **Link:** [GitHub Repository Link]
-
-### [Yet Another Project Name]
-![Project Thumbnail](https://your-image-url.com/project-thumbnail.png) <!-- Replace with your project thumbnail URL -->
-- **Description:** A brief overview of what the project is about.
-- **Technologies Used:** [List of technologies]
-- **Link:** [GitHub Repository Link]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf11071107&layout=compact&theme=radical)
 
 ---
 
@@ -79,14 +83,13 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-## 📊 GitHub Stats
+## 🎉 Fun Fact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaf11071107&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf11071107&layout=compact&theme=radical)
+Did you know that [insert an interesting fact about yourself or your tech interests]?
 
 ---
 
-## 💡 Fun Fact
+## 🎥 Dynamic GIFs
 
-Did you know that [insert an interesting fact about yourself or your tech interests]?
+### Here's a sneak peek of my coding process:
+![Coding GIF](https://your-gif-url.com/coding-process.gif) <!-- Replace with your coding process GIF URL -->
