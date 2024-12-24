@@ -31,45 +31,31 @@
 
 ---
 
-## 🎨 My Projects
-
-### 🌈 Project Gallery
-<p align="center">
-  <a href="https://github.com/olaf11071107/project1" target="_blank">
-    <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1" width="150" height="150" />
-  </a>
-  <a href="https://github.com/olaf11071107/project2" target="_blank">
-    <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2" width="150" height="150" />
-  </a>
-  <a href="https://github.com/olaf11071107/project3" target="_blank">
-    <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" width="150" height="150" />
-  </a>
-  <a href="https://github.com/olaf11071107/project4" target="_blank">
-    <img src="https://via.placeholder.com/150?text=Project+4" alt="Project 4" width="150" height="150" />
-  </a>
-</p>
-
----
-
-## 🌟 Experience
-
-### [Your Job Title] at [Your Company]
-*Month Year - Present*
-- Developed [specific project or feature] that improved [specific metric or outcome].
-- Collaborated with [team or department] to enhance [process or product].
-
-### [Previous Job Title] at [Previous Company]
-*Month Year - Month Year*
-- Led a team of [number] to successfully deliver [project or goal].
-- Implemented [technology or process] that resulted in [specific achievement].
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaf11071107&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf11071107&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=olaf11071107)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=olaf11071107&theme=react-dark)
+
+---
+
+## 💬 Dynamic Quotes
+
+Here’s a quote that inspires me:
+```html
+<marquee behavior="scroll" direction="left">"The only way to do great work is to love what you do." – Steve Jobs</marquee>
+```
+
+Another one I love:
+```html
+<marquee behavior="scroll" direction="left">"Code is like humor. When you have to explain it, it’s bad." – Cory House</marquee>
+```
 
 ---
 
@@ -86,10 +72,3 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 ## 🎉 Fun Fact
 
 Did you know that I love exploring new programming languages and technologies? 🌍
-
----
-
-## 🎥 Dynamic GIFs
-
-### Here's a sneak peek of my coding process:
-![Coding GIF](https://media.giphy.com/media/3o7aD2sa8T1H9bY5nK/giphy.gif) <!-- Replace with your coding process GIF URL -->
