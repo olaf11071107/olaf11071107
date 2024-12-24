@@ -48,14 +48,10 @@
 ## 💬 Dynamic Quotes
 
 Here’s a quote that inspires me:
-```html
 <marquee behavior="scroll" direction="left">"The only way to do great work is to love what you do." – Steve Jobs</marquee>
-```
 
 Another one I love:
-```html
 <marquee behavior="scroll" direction="left">"Code is like humor. When you have to explain it, it’s bad." – Cory House</marquee>
-```
 
 ---
 
