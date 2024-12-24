@@ -7,7 +7,7 @@
 
 ### 🌟 Programming Languages
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="JavaScript" width="100" />
+  <img src="https://media.giphy.com/media/1zY8g1g1g1g0g1g1g1/giphy.gif" alt="JavaScript" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Python" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Java" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="C++" width="100" />
@@ -15,7 +15,7 @@
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="React" width="100" />
+  <img src="https://media.giphy.com/media/1zY8g1g1g1g0g1g1g1/giphy.gif" alt="React" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Node.js" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Django" width="100" />
   <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Flask" width="100" />
