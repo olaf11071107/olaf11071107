@@ -47,11 +47,7 @@
 
 ## 💬 Dynamic Quotes
 
-Here’s a quote that inspires me:
-<marquee behavior="scroll" direction="left">"The only way to do great work is to love what you do." – Steve Jobs</marquee>
-
-Another one I love:
-<marquee behavior="scroll" direction="left">"Code is like humor. When you have to explain it, it’s bad." – Cory House</marquee>
+![Random Quote](https://quotes.rest/qod?language=en)
 
 ---
 
