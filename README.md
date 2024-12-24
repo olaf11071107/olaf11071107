@@ -35,17 +35,17 @@
 
 ### 🌈 Project Gallery
 <p align="center">
-  <a href="https://github.com/yourusername/project1" target="_blank">
-    <img src="https://your-image-url.com/project1-thumbnail.png" alt="Project 1" width="150" height="150" />
+  <a href="https://github.com/olaf11071107/project1" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+1" alt="Project 1" width="150" height="150" />
   </a>
-  <a href="https://github.com/yourusername/project2" target="_blank">
-    <img src="https://your-image-url.com/project2-thumbnail.png" alt="Project 2" width="150" height="150" />
+  <a href="https://github.com/olaf11071107/project2" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+2" alt="Project 2" width="150" height="150" />
   </a>
-  <a href="https://github.com/yourusername/project3" target="_blank">
-    <img src="https://your-image-url.com/project3-thumbnail.png" alt="Project 3" width="150" height="150" />
+  <a href="https://github.com/olaf11071107/project3" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+3" alt="Project 3" width="150" height="150" />
   </a>
-  <a href="https://github.com/yourusername/project4" target="_blank">
-    <img src="https://your-image-url.com/project4-thumbnail.png" alt="Project 4" width="150" height="150" />
+  <a href="https://github.com/olaf11071107/project4" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Project+4" alt="Project 4" width="150" height="150" />
   </a>
 </p>
 
@@ -85,11 +85,11 @@ Feel free to reach out if you want to collaborate or just chat about tech!
 
 ## 🎉 Fun Fact
 
-Did you know that [insert an interesting fact about yourself or your tech interests]?
+Did you know that I love exploring new programming languages and technologies? 🌍
 
 ---
 
 ## 🎥 Dynamic GIFs
 
 ### Here's a sneak peek of my coding process:
-![Coding GIF](https://your-gif-url.com/coding-process.gif) <!-- Replace with your coding process GIF URL -->
+![Coding GIF](https://media.giphy.com/media/3o7aD2sa8T1H9bY5nK/giphy.gif) <!-- Replace with your coding process GIF URL -->
