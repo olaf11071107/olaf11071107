@@ -7,26 +7,26 @@
 
 ### 🌟 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django" />
-  <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
