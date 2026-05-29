@@ -1,62 +1,58 @@
-# 👋 Hello, I'm Olaf!
+# ⛄ Hi, I'm Olaf!
 
-### A passionate developer exploring the world of technology 🌐
+> *Some devs melt under pressure — I just build snowmen.* ❄️
+
+A passionate developer exploring the world of technology 🌐
 
 ---
 
-## 🚀 Skills Showcase
+## 🧊 Tech Stack
 
-### 🌟 Programming Languages
+**Languages**
 
-<p align="center">
-  <img src="./javascript.gif" alt="JavaScript" width="100" />
-  <img src="./python.gif" alt="Python" width="100" />
-  <img src="./java.gif" alt="Java" width="100" />
-  <img src="./c.gif" alt="C++" width="100" />
-</p>
+[![Languages](https://skillicons.dev/icons?i=js,python,java,cpp&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Frameworks & Libraries
+**Frameworks & Libraries**
 
-<p align="center">
-  <img src="./react-logo.gif" alt="React" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Node.js" width="100" />
-  <img src="https://iconscout.com/free-icon/django-13" alt="Django" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Flask" width="100" />
-</p>
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Tools & Technologies
+**Tools & Technologies**
 
-<p align="center">
-  <img src="./git.gif" alt="Git" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="Docker" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="AWS" width="100" />
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g1g1G/giphy.gif" alt="PostgreSQL" width="100" />
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,docker,aws,postgres&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaf11071107&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf11071107&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=olaf11071107)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=olaf11071107&show_icons=true&theme=tokyonight" alt="Olaf's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaf11071107&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=olaf11071107&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olaf11071107&color=blueviolet&label=Profile+Views" alt="Profile views" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=olaf11071107&theme=react-dark)
+[![Olaf's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaf11071107&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** [olaf11071107@outlook.com]
+📧 **Email:** [olaf11071107@outlook.com](mailto:olaf11071107@outlook.com)
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
 
-## 🎉 Fun Fact
+## ❄️ Fun Fact
 
-Did you know that I love exploring new programming languages and technologies? 🌍
+I love exploring new programming languages and technologies — there's always another flurry of things to learn. 🌍
