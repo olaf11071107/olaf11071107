@@ -10,15 +10,31 @@ A passionate developer exploring the world of technology 🌐
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=js,python,java,cpp&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,go,rust,kotlin,swift,php,ruby,dart&theme=dark&perline=14)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+**Frontend**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,react,vue,angular,svelte,nextjs,nuxtjs,tailwind,bootstrap,redux&theme=dark&perline=12)](https://skillicons.dev)
 
-**Tools & Technologies**
+**Backend**
 
-[![Tools](https://skillicons.dev/icons?i=git,docker,aws,postgres&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel,rails,dotnet,graphql&theme=dark&perline=10)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase&theme=dark&perline=7)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,azure,nginx,linux,bash&theme=dark&perline=10)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=vscode,vim,figma,postman,jest,webpack,vite,npm,yarn&theme=dark&perline=9)](https://skillicons.dev)
+
+**AI / ML**
+
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4)](https://skillicons.dev)
 
 ---
 
