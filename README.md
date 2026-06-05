@@ -55,12 +55,6 @@ A passionate developer exploring the world of technology 🌐
 
 ---
 
-## 📈 Contribution Graph
-
-[![Olaf's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaf11071107&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📫 Get in Touch
 
 📧 **Email:** [olaf11071107@outlook.com](mailto:olaf11071107@outlook.com)
