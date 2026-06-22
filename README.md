@@ -23,6 +23,10 @@
 
 ---
 
+<img align="center" src="https://count.getloli.com/get/@:olaf11071107?theme=green">
+
+---
+
 ##  Tech Stack
 
 **Languages**
