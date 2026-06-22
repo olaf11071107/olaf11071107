@@ -47,11 +47,74 @@
 
 **Tools & Editors**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,vim,neovim,idea,pycharm,figma,postman,jest,cypress,selenium,npm,yarn,pnpm,linux&theme=dark&perline=14)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,vim,neovim,idea,pycharm,figma,postman,jest,cypress,selenium,npm,yarn,pnpm,linux,jira&theme=dark&perline=15)](https://skillicons.dev)
 
 **AI / ML**
 
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,matlab&theme=dark&perline=6)](https://skillicons.dev)
+
+**Messaging & Observability**
+
+[![Messaging](https://skillicons.dev/icons?i=kafka,rabbitmq,prometheus,grafana&theme=dark&perline=4)](https://skillicons.dev)
+
+### � Also Experienced With
+
+**Streaming & Data Warehousing**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Aurora](https://img.shields.io/badge/AWS%20Aurora-527FFF?style=for-the-badge&logo=amazonaurora&logoColor=white)
+
+**APIs & .NET**
+
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
+
+**AI / LLM Platforms**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**NVIDIA AI Serving Stack**
+
+![Triton](https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA FLARE](https://img.shields.io/badge/NVIDIA%20FLARE-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Holoscan](https://img.shields.io/badge/Holoscan-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Observability**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+**AWS Services**
+
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+**Realtime, Viz & AI Coding Tools**
+
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge&logo=amazon&logoColor=white)
 
 ---
 
