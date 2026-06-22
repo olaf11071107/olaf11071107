@@ -1,6 +1,6 @@
 <!-- ❄️ Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Olaf&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Some%20devs%20melt%20under%20pressure%20—%20I%20just%20build%20snowmen&descSize=16&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Olaf&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Some%20devs%20melt%20under%20pressure%20—%20I%20just%20build%20snowmen&descSize=16&descAlignY=90" alt="header" />
 </p>
 
 # ⛄ Hi, I'm Olaf!
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<!-- � Social badges -->
+<!--  Social badges -->
 <p align="center">
   <a href="mailto:olaf11071107@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/olaf11071107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,7 +23,7 @@
 
 ---
 
-## � Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -131,7 +131,7 @@
 
 ---
 
-## � Trophy Case
+## Trophy Case
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=olaf11071107&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
@@ -139,15 +139,15 @@
 
 ---
 
-## � Contribution Graph
+## Contribution Graph
 
 [![Olaf's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaf11071107&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## � Get in Touch
+## Get in Touch
 
-� **Email:** [olaf11071107@outlook.com](mailto:olaf11071107@outlook.com)
+ **Email:** [olaf11071107@outlook.com](mailto:olaf11071107@outlook.com)
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
